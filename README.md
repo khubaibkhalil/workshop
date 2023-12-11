@@ -8,7 +8,7 @@ This repository contains the individual HTML pages of a collaborative project by
    - [Khubaib Khalil](home.html)
 
 2. **Hanan Khalid:**
-   - [My page](contact.html)
+   - [Hanan Khalid](contact.html)
 
 3. **Umer Sufian:**
    - [Umer Sufian](privacy.html)
